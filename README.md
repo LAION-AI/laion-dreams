@@ -99,7 +99,16 @@ These projects are collaborations between many people. If you want to know who, 
    <td>Largest open high-resolution text/image dataset
    </td>
   </tr>
-  
+  <tr>
+   <td><a href="https://huggingface.co/datasets/laion/balanced-laion5b">Laion5B balanced</a>
+   </td>
+   <td>image/text
+   </td>
+   <td>Just started
+   </td>
+   <td>Balanced LAION-5B dataset for more efficient training
+   </td>
+  </tr>
   <tr>
    <td><a href="https://github.com/LAION-AI/laion-3d">laion3d</a>
    </td>
