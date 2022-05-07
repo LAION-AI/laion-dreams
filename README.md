@@ -229,7 +229,7 @@ These projects are collaborations between many people. If you want to know who, 
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/LAION-AI/super-resolution">Super-resolution model</a>
+   <td><a href="https://github.com/LAION-AI/super-resolution">Super-resolution</a>
    </td>
    <td>image/text
    </td>
@@ -238,6 +238,16 @@ These projects are collaborations between many people. If you want to know who, 
    <td>Just started
    </td>
    <td>Using a high-resolution subset of LAION-5B for the training
+   </td>
+  </tr>
+    <tr>
+   <td><a href="https://github.com/LAION-AI/medical">LAION medical</a>
+   </td>
+   <td>CLIP
+   </td>
+   <td>Just started
+   </td>
+   <td>Using recent ML models (e.g. clip) to improve diagnosis and therapy in medicine or help basic research in general.
    </td>
   </tr>
   <tr>
@@ -307,62 +317,18 @@ These projects are collaborations between many people. If you want to know who, 
    <td>Evaluating clip performances easily
    </td>
   </tr>
-</table>
-
-### Projects
-
-<table>
   <tr>
-   <td>Name
+   <td><a href="https://github.com/LAION-AI/CLIP_benchmark">clip benchmark</a>
    </td>
-   <td>Modality
+   <td>image/text
    </td>
-   <td>Status
+   <td>wip
    </td>
-   <td>Notes
-   </td>
-  </tr>
-  <tr>
-   <td><a href="https://github.com/LAION-AI/medical">LAION medical</a>
-   </td>
-   <td>CLIP
-   </td>
-   <td>Just started
-   </td>
-   <td>Using recent ML models (e.g. clip) to improve diagnosis and therapy in medicine or help basic research in general.
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
+   <td>Evaluating clip performances easily
    </td>
   </tr>
 </table>
+
 
 ### Papers
 
