@@ -353,16 +353,6 @@ These projects are collaborations between many people. If you want to know who, 
    <td>Evaluating clip performances easily
    </td>
   </tr>
-  <tr>
-   <td><a href="https://github.com/LAION-AI/CLIP_benchmark">clip benchmark</a>
-   </td>
-   <td>image/text
-   </td>
-   <td>wip
-   </td>
-   <td>Evaluating clip performances easily
-   </td>
-  </tr>
 </table>
 
 
