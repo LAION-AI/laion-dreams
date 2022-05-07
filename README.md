@@ -90,6 +90,16 @@ These projects are collaborations between many people. If you want to know who, 
    </td>
   </tr>
   <tr>
+   <td><a href="https://huggingface.co/datasets/laion/laion-high-resolution">High-resolution Laion5B</a>
+   </td>
+   <td>image/text
+   </td>
+   <td>Done
+   </td>
+   <td>Largest open high-resolution text/image dataset
+   </td>
+  </tr>
+  <tr>
    <td><a href="https://github.com/LAION-AI/laion-3d">laion3d</a>
    </td>
    <td>3d/image/text
