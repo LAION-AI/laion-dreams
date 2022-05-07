@@ -262,6 +262,30 @@ These projects are collaborations between many people. If you want to know who, 
    <td>Using CLIP to improve MRI -> image synthesis (see project outline).
    </td>
   </tr>
+    <tr>
+   <td><a href="https://github.com/LAION-AI/CLIP-based-NSFW-Detector">NSFW detection</a>
+   </td>
+   <td>image/text
+   </td>
+   <td>contrastive
+   </td>
+   <td>Done
+   </td>
+   <td>Using CLIP to detect NSFW in images.
+   </td>
+  </tr>
+      <tr>
+   <td><a href="https://github.com/LAION-AI/LAION-5B-WatermarkDetection">Watermark detection</a>
+   </td>
+   <td>image/text
+   </td>
+   <td>contrastive
+   </td>
+   <td>Done
+   </td>
+   <td>Using CLIP to detect watermarks in images.
+   </td>
+  </tr>
   <tr>
    <td>
    </td>
