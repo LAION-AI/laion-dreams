@@ -1,8 +1,7 @@
 
 # Laion - the big plan
 
-**Overarching goal:** Enable the open source community to openly build datasets, papers, models and tools in order to let AGI happen faster.
-
+**Overarching goal:** Enable the open source community to openly build datasets, papers, models and tools in order to let AGI benefit humankind even faster.
 
 ## Intro
 
@@ -12,62 +11,52 @@ Many models have been trained on laion400m proving the value of this method, wit
 
 Let’s reproduce that method to **more modalities**!
 
-
 ## Directions
 
 Methods
 
-
-
 * Open source: releasing everything openly
-    * Code: on github with an open license
-    * Model: freely distributed models
-    * Dataset: freely distributed datasets
+  * Code: on github with an open license
+  * Model: freely distributed models
+  * Dataset: freely distributed datasets
 * Open development: development is done in public on github and discord, everyone is encouraged to participate, whatever their nationality, age and diploma
 
 Axis of work:
 
-
-
 * Open tools
-    * Dataset collection
-    * Dataset preparation
-    * Distributed inference
-    * Distributed training
-    * Evaluation
-* Datasets 
-    * Open distribution
-    * Papers
+  * Dataset collection
+  * Dataset preparation
+  * Distributed inference
+  * Distributed training
+  * Evaluation
+* Datasets
+  * Open distribution
+  * Papers
 * Models
-    * Open training
-    * Open distribution
+  * Open training
+  * Open distribution
 
 Scientific domains
 
-
-
 * All modalities dataset building
+  * Text image
+  * Text audio
+  * Text video
+  * Text 3d
+* Contrastive and generative
+  * Contrastive
     * Text image
     * Text audio
     * Text video
-    * Text 3d
-* Contrastive and generative
-    * Contrastive
-        * Text image
-        * Text audio
-        * Text video
-    * Generative
-        * Text to image
-        * Image to text
-
+  * Generative
+    * Text to image
+    * Image to text
 
 ## Projects
 
 These projects are collaborations between many people. If you want to know who, check the links and ask in discord. We are open to new collaborators!
 
-
 ### Dataset
-
 
 <table>
   <tr>
@@ -115,7 +104,7 @@ These projects are collaborations between many people. If you want to know who, 
    </td>
    <td>text/audio
    </td>
-   <td>Started 
+   <td>Started
    </td>
    <td>Started to be used to train an audio clip
    </td>
@@ -142,10 +131,7 @@ These projects are collaborations between many people. If you want to know who, 
   </tr>
 </table>
 
-
-
 ### Model
-
 
 <table>
   <tr>
@@ -233,15 +219,15 @@ These projects are collaborations between many people. If you want to know who, 
    </td>
   </tr>
   <tr>
-   <td>
+   <td><a href="https://github.com/LAION-AI/super-resolution">Super-resolution model</a>
    </td>
-   <td>
+   <td>image/text
    </td>
-   <td>
+   <td>SWIN
    </td>
-   <td>
+   <td>Just started
    </td>
-   <td>
+   <td>Using a high-resolution subset of LAION-5B for the training
    </td>
   </tr>
   <tr>
@@ -258,10 +244,7 @@ These projects are collaborations between many people. If you want to know who, 
   </tr>
 </table>
 
-
-
 ### Tools
-
 
 <table>
   <tr>
@@ -305,7 +288,7 @@ These projects are collaborations between many people. If you want to know who, 
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/LAION-AI/CLIP_benchmark">clip benchmark</a> 
+   <td><a href="https://github.com/LAION-AI/CLIP_benchmark">clip benchmark</a>
    </td>
    <td>image/text
    </td>
@@ -316,10 +299,7 @@ These projects are collaborations between many people. If you want to know who, 
   </tr>
 </table>
 
-
-
 ### Papers
-
 
 <table>
   <tr>
@@ -343,7 +323,7 @@ These projects are collaborations between many people. If you want to know who, 
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/LAION-AI/laion5B-paper">laion5B</a> 
+   <td><a href="https://github.com/LAION-AI/laion5B-paper">laion5B</a>
    </td>
    <td>image/text
    </td>
@@ -383,4 +363,3 @@ These projects are collaborations between many people. If you want to know who, 
    </td>
   </tr>
 </table>
-
