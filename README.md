@@ -99,6 +99,7 @@ These projects are collaborations between many people. If you want to know who, 
    <td>Largest open high-resolution text/image dataset
    </td>
   </tr>
+  
   <tr>
    <td><a href="https://github.com/LAION-AI/laion-3d">laion3d</a>
    </td>
@@ -241,13 +242,15 @@ These projects are collaborations between many people. If you want to know who, 
    </td>
   </tr>
     <tr>
-   <td><a href="https://github.com/LAION-AI/medical">LAION medical</a>
+   <td><a href="https://github.com/LAION-AI/medical">Medical CLIP</a>
    </td>
-   <td>CLIP
+   <td>image/text
+   </td>
+   <td>contrastive
    </td>
    <td>Just started
    </td>
-   <td>Using recent ML models (e.g. clip) to improve diagnosis and therapy in medicine or help basic research in general.
+   <td>Using CLIP to improve MRI -> image synthesis (see project outline).
    </td>
   </tr>
   <tr>
