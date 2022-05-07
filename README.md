@@ -232,9 +232,9 @@ These projects are collaborations between many people. If you want to know who, 
   <tr>
    <td><a href="https://github.com/LAION-AI/super-resolution">Super-resolution</a>
    </td>
-   <td>image/text
+   <td>image->image
    </td>
-   <td>SWIN
+   <td>generative
    </td>
    <td>Just started
    </td>
