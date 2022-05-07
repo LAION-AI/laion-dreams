@@ -90,7 +90,7 @@ These projects are collaborations between many people. If you want to know who, 
    </td>
   </tr>
   <tr>
-   <td><a href="https://huggingface.co/datasets/laion/laion-high-resolution">High-resolution Laion5B</a>
+   <td><a href="https://huggingface.co/datasets/laion/laion-high-resolution">Laion5B high-resolution</a>
    </td>
    <td>image/text
    </td>
@@ -305,6 +305,61 @@ These projects are collaborations between many people. If you want to know who, 
    <td>wip
    </td>
    <td>Evaluating clip performances easily
+   </td>
+  </tr>
+</table>
+
+### Projects
+
+<table>
+  <tr>
+   <td>Name
+   </td>
+   <td>Modality
+   </td>
+   <td>Status
+   </td>
+   <td>Notes
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://github.com/LAION-AI/medical">LAION medical</a>
+   </td>
+   <td>CLIP
+   </td>
+   <td>Just started
+   </td>
+   <td>Using recent ML models (e.g. clip) to improve diagnosis and therapy in medicine or help basic research in general.
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
    </td>
   </tr>
 </table>
