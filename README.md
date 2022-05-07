@@ -1,6 +1,8 @@
 
 # Laion - the big plan
 
+[![Chat on discord](https://img.shields.io/discord/823813159592001537?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/eq3cAMZtCC)
+
 **Overarching goal:** Enable the open source community to openly build datasets, papers, models and tools in order to let AGI benefit humankind even faster.
 
 ## Intro
