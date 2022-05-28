@@ -13,6 +13,10 @@ Many models have been trained on laion400m proving the value of this method, wit
 
 Let’s reproduce that method to **more modalities**!
 
+## Overall rationale
+
+These projects and directions are projects that we would like to promote and help. We do not claim ownership as an organization on these projects. The people that build the projects own these projects.
+
 ## Directions
 
 Methods
