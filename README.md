@@ -5,18 +5,6 @@
 
 **Overarching goal:** Enable the open source community to openly build datasets, papers, models and tools in order to let AGI benefit humankind even faster.
 
-**Electric Sheep project:**
-One long-term project that we are currently pursuing in accordance with our overarching goal is the electric sheep project.
-
-The idea is:
-
-1. Train **CLIP-like models** in all directions for the modalities image, text, audio, video and eventually later, if available at sufficient scale 3D data & haptic data (e.g. from  gloves & similar gear in AR/VR enviorments)
---> **Encode all these modalities in shared a semantic embedding space ("idea space")** 
-2. **Train a sequence learner** like e.g. autoregressive transformers (or whatever could replace them in the future) to **model time series of semantic embeddings ("streams of ideas")** gained from data from all modalities ( e.g. huge text datasets, huge video & audio collections, ... )
-
-Also check out this video:
-https://youtu.be/ZSpYLAyHPQM
-
 ## Intro
 
 Laion was initiated with the Laion5B project that successfully produced a 5B (image, text) pairs dataset by processing commoncrawl and filtering with clip. That method proved that it’s cheap to collect large scale dataset from the web using models like clip that give the similarity between items from 2 modalities.
@@ -302,6 +290,18 @@ These projects are collaborations between many people. If you want to know who, 
    <td>Done
    </td>
    <td>Using CLIP to detect watermarks in images.
+   </td>
+  </tr>
+   <tr>
+   <td><a href="projects/electric-sheep.md">electric sheep</a>
+   </td>
+   <td>image/text/audio/video
+   </td>
+   <td>contrastive/generative
+   </td>
+   <td>Just started
+   </td>
+   <td>Train contrastive and generative models on all modalities.
    </td>
   </tr>
   <tr>
