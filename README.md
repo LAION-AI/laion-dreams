@@ -14,7 +14,7 @@ The idea is:
 --> **Encode all these modalities in shared a semantic embedding space ("idea space")** 
 2. **Train a sequence learner** like e.g. autoregressive transformers (or whatever could replace them in the future) to **model time series of semantic embeddings ("streams of ideas")** gained from data from all modalities ( e.g. huge text datasets, huge video & audio collections, ... )
 
-Check out this video:
+Also check out this video:
 https://youtu.be/ZSpYLAyHPQM
 
 ## Intro
