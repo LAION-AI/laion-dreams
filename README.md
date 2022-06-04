@@ -5,6 +5,8 @@
 
 **Overarching goal:** Enable the open source community to openly build datasets, papers, models and tools in order to let AGI benefit humankind even faster.
 
+https://youtu.be/ZSpYLAyHPQM
+
 ## Intro
 
 Laion was initiated with the Laion5B project that successfully produced a 5B (image, text) pairs dataset by processing commoncrawl and filtering with clip. That method proved that it’s cheap to collect large scale dataset from the web using models like clip that give the similarity between items from 2 modalities.
