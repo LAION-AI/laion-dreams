@@ -1,5 +1,5 @@
 
-# Laion - the big plan
+# Laion dreams
 
 [![Chat on discord](https://img.shields.io/discord/823813159592001537?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/eq3cAMZtCC)
 
