@@ -398,43 +398,13 @@ These projects are collaborations between many people. If you want to know who, 
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/LAION-AI/laion5B-paper">laion5B</a>
+   <td><a href="https://arxiv.org/abs/2210.08402">laion5B</a>
    </td>
    <td>image/text
    </td>
-   <td>started
+   <td>In arxiv
    </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
+   <td><a href="https://neurips.cc/virtual/2022/poster/55659">Outstanding paper NEURIPS 2022</a>
    </td>
   </tr>
 </table>
