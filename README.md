@@ -406,37 +406,5 @@ These projects are collaborations between many people. If you want to know who, 
    </td>
    <td><a href="https://neurips.cc/virtual/2022/poster/55659">Outstanding paper NEURIPS 2022</a>
    </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
   </tr>
 </table>
